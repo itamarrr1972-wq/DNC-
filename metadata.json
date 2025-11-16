@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Fashion Stylist",
+  "description": "Upload a photo of an outfit and virtually try it on a digital model. This app uses generative AI to transfer clothing from your image onto a professional fashion model in a runway setting, rendered in stunning 8K quality.",
+  "requestFramePermissions": []
+}
